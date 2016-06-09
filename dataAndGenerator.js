@@ -46,13 +46,13 @@ var context = {
     contact:{
         mail: "peter@stadelwieser.at",
         phone: "+43 680 1247831",
-        addresslines: [            
+        addresslines: [
             "In Fängen 43",
             "A-6850 Dornbirn"
         ]
     },
-    references: [       
-        
+    references: [
+
         {
             img_src: "img/references/fhv_logo.png",
             img_info: "Fachhochschule Vorarlberg",
@@ -61,7 +61,7 @@ var context = {
         {
             img_src: "img/references/V-Research_03_grau.jpg",
             img_info: "v-research",
-            img_link: "http://www.v-research.at/"            
+            img_link: "http://www.v-research.at/"
         },
          {
             img_src: "img/references/solve_logo.png",
@@ -73,7 +73,12 @@ var context = {
             img_info: "phios",
             img_link: "http://phios.li/"
         },
-       
+        {
+            img_src: "img/references/wg-logo-footer-icon.jpg",
+            img_info: "Webgears",
+            img_link: "http://www.webgears.at/"
+        },
+
     ]
 };
 var html = template(context);
