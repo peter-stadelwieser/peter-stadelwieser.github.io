@@ -52,32 +52,42 @@ var context = {
         ]
     },
     references: [
+      {
+          img_src: "img/references/fhv_logo.png",
+          img_info: "Fachhochschule Vorarlberg",
+          img_link: "http://www.fhv.at/"
+      },
 
-        {
-            img_src: "img/references/fhv_logo.png",
-            img_info: "Fachhochschule Vorarlberg",
-            img_link: "http://www.fhv.at/"
-        },
+      {
+          img_src: "img/references/wg-logo-footer-icon.jpg",
+          img_info: "Webgears",
+          img_link: "http://www.webgears.at/"
+      },
         {
             img_src: "img/references/V-Research_03_grau.jpg",
             img_info: "v-research",
             img_link: "http://www.v-research.at/"
         },
-         {
-            img_src: "img/references/solve_logo.png",
-            img_info: "Solve Engineering",
-            img_link: "http://www.solve-engineering.ch/"
+
+
+        {
+            img_src: "img/references/inetlog.jpg",
+            img_info: "inet logistics",
+            img_link: "https://www.inet-logistics.com/"
         },
+        {
+           img_src: "img/references/solve_logo.png",
+           img_info: "Solve Engineering",
+           img_link: "http://www.solve-engineering.ch/"
+       },
         {
             img_src: "img/references/phios_logo.png",
             img_info: "phios",
             img_link: "http://phios.li/"
         },
-        {
-            img_src: "img/references/wg-logo-footer-icon.jpg",
-            img_info: "Webgears",
-            img_link: "http://www.webgears.at/"
-        },
+
+
+
 
     ]
 };
