@@ -96,6 +96,11 @@ var context = {
             img_link: "https://www.towa-digital.com"
         },
         {
+            img_src: "img/references/dornerasp.png",
+            img_info: "Dorner ASP",
+            img_link: "http://www.dorner-asp.com/"
+        },
+        {
             img_src: "img/references/mpreis.png",
             img_info: "MPREIS",
             img_link: "https://www.mpreis.at"
@@ -105,11 +110,7 @@ var context = {
             img_info: "Kuhnhenn Baustofftechnologie",
             img_link: "http://www.kuhnhenn-baustofftechnologie.ch"
         },
-        {
-            img_src: "img/references/dornerasp.png",
-            img_info: "Dorner ASP",
-            img_link: "http://www.dorner-asp.com/"
-        },
+
         {
             img_src: "img/references/soplar.png",
             img_info: "Soplar",
