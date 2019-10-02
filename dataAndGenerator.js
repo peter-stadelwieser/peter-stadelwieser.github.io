@@ -85,6 +85,36 @@ var context = {
             img_info: "phios",
             img_link: "http://phios.li/"
         },
+        {
+            img_src: "img/references/kuenz.jpg",
+            img_info: "kuenz",
+            img_link: "https://www.kuenz.com/"
+        },
+        {
+            img_src: "img/references/towa.png",
+            img_info: "TOWA",
+            img_link: "https://www.towa-digital.com"
+        },
+        {
+            img_src: "img/references/mpreis.png",
+            img_info: "MPREIS",
+            img_link: "https://www.mpreis.at"
+        },
+        {
+            img_src: "img/references/kuhnhenn.jpg",
+            img_info: "Kuhnhenn Baustofftechnologie",
+            img_link: "http://www.kuhnhenn-baustofftechnologie.ch"
+        },
+        {
+            img_src: "img/references/dornerasp.png",
+            img_info: "Dorner ASP",
+            img_link: "http://www.dorner-asp.com/"
+        },
+        {
+            img_src: "img/references/soplar.png",
+            img_info: "Soplar",
+            img_link: "https://www.soplar.com"
+        },
 
 
 
